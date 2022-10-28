@@ -62,7 +62,7 @@ AptosPad ticket is the fair way for users participating in the early token sale.
 
 The token that a user will be allowed to by will be calculated by the formulation below:
 
-![$$ amount_x = {ticket_x*totalSale \over \sum_{k=1}^n ticket_k}$$](../assets/ticket-equation.png)
+![$$ amount_x = {ticket_x*totalSale \over \sum_{k=1}^n ticket_k}$$](https://github.com/aptospad-app/.github/blob/main/assets/ticket-equation.png)
 
 Where:
 - _amount(x)_: is the amount of token that user X can buy
