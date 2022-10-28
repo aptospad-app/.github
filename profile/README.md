@@ -1,5 +1,5 @@
 # Welcome to [AptosPad](https://aptospad.app)
-![AptosPad Banner](../assets/Aptospad-05.png)
+![AptosPad Banner](https://github.com/aptospad-app/.github/blob/main/assets/Aptospad-05.png)
 
 ApptosPad is the launchpad platform on Aptos blockchain that accelerates the future ideals by connecting the community, investors and builders. The creative ideals can become real with the fundraising and support from AptosPad platform
 
