@@ -91,7 +91,7 @@ There will be 1.000.000.000 (1B in word) token issued on Aptos mainet. The alloc
 | Public round (IDO)           | 4%          |40.000.000  |Release 100% at TGE                            |
 | Advisor                      | 5%          |50.000.000  |Release 10% at TGE, linear vesting in the next 36 months|
 | Founder/Core team            | 15%         |150.000.000 |Fully lock in 12 months then unlock over 36 months|
-| OG, community, airdrop       | 50%         |500.000.000 |Release on each campain, target in 5 years|
+| OG, community, airdrop       | 50%         |500.000.000 |Release on each campaign, target in 5 years|
 | Treasury                     | 18%         |180.000.000 |Fully lock in the first 3 years, unlock over next 36 months|
 
 ## Become the early supporter
