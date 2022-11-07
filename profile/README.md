@@ -65,7 +65,7 @@ AptosPad ticket is the fair way for users participating in the early token sale.
 
 The token that a user will be allowed to by will be calculated by the formulation below:
 
-![$$ amount_x = {ticket_x*totalSale \over \sum_{k=1}^n ticket_k}$$](../assets/ticket-equation.png)
+![$$ amount_x = {ticket_x*totalSale \over \sum_{k=1}^n ticket_k}$$](https://github.com/aptospad-app/.github/blob/main/assets/ticket-equation.png)
 
 Where:
 - _amount(x)_: is the amount of token that user X can buy
@@ -102,7 +102,7 @@ There will be 1.000.000.000 (1B in word) token issued on Aptos mainet. The alloc
 | Public round (IDO)           | 4%          |40.000.000  |Release 100% at TGE                            |
 | Advisor                      | 5%          |50.000.000  |Release 10% at TGE, linear vesting in the next 36 months|
 | Founder/Core team            | 15%         |150.000.000 |Fully lock in 12 months then unlock over 36 months|
-| OG, community, airdrop       | 50%         |500.000.000 |Release on each campain, target in 5 years|
+| OG, community, airdrop       | 50%         |500.000.000 |Release on each campaign, target in 5 years|
 | Treasury                     | 18%         |180.000.000 |Fully lock in the first 3 years, unlock over next 36 months|
 
 ## Become the early supporter
