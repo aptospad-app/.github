@@ -7,15 +7,23 @@ AptosPad is the first launchpad on Aptos that proposes and applies the SharePad 
 
 AptosPad will be the DAO and community-driven platform so that It creates the fair opportunity for any users to access the project's token sale from the early stage.
 
-Project resources:
+__Document Outlines:__
 
-[Smart contract](https://github/aptospad-app/smart-contracts)
+- [How AptosPad work](#how-aptospad-work)
+- [The AptosPad functions](#the-aptospad-functions)
+- [How to participate in token sales](#how-to-participate-in-token-sales)
+    - [Whitelist mechanism ](#whitelist-mechanism)
+    - [AptosPad ticket](#aptospad-ticket)
+- [How SharePad works](#how-sharepad-works)
+- [ATPP - The utinity token on AptosPad](#atpp---the-utinity-token-on-aptospad)
+    - [Token utinity](#token-utinity)
+    - [Tokenomic](#tokenomic)
+- [Become the early supporter](#become-the-early-supporters)
 
-[Web application](https://aptospad.app)
 
-[Discord Channel](https://discord/) | [Twitter](https://twitter.com/)
+__Project resources:__
 
-[Contact us](mailto:contact@aptpospad.app)
+[Smart contract](https://github/aptospad-app/smart-contracts) | [Web application](https://aptospad.app) | [Discord Channel](https://discord/) | [Twitter](https://twitter.com/aptospad_dao) | [Contact us](mailto:contact@aptpospad.app)
 
 ## How AptosPad work
 
@@ -60,7 +68,7 @@ Users that hold and stake the ATPP token in a staking pool at least 3 days befor
 
 Please note that the official ticket calculation will be define in smart contract at the time of deploying
 
-### AptosPad ticket.
+### AptosPad ticket
 AptosPad ticket is the fair way for users participating in the early token sale. To get the Aptospad tickets users can join the whitelist by taking the ATPP token which is described in the session above or participate in community activities on the platform such as share the event, retweet the post, win the lottery, … the first 100 users with the high ranking will get the tickets. The number of tickets that the leaderboard can archive will depend on the situation when launching the projects.
 
 The token that a user will be allowed to by will be calculated by the formulation below:
@@ -105,7 +113,7 @@ There will be 1.000.000.000 (1B in word) token issued on Aptos mainet. The alloc
 | OG, community, airdrop       | 50%         |500.000.000 |Release on each campaign, target in 5 years|
 | Treasury                     | 18%         |180.000.000 |Fully lock in the first 3 years, unlock over next 36 months|
 
-## Become the early supporter
+## Become the early supporters
 The early supporters, also known as __OG__ will have the high opportunity to buy the tokens because they will have the priority tickets (without staking the APTT token) to access the project sales.
 There are many ways to become early supporters (or OG) such as joining and sharing AptosPad social media channels, partnership or collaboration in projects … There will be a post on twitter of how to be the platform early supporters. Please follow us [AptosPad](https://twitter.com/Aptospad_DAO)
 
