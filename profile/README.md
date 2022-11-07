@@ -3,7 +3,9 @@
 
 ApptosPad is the launchpad platform on Aptos blockchain that accelerates the future ideals by connecting the community, investors and builders. The creative ideals can become real with the fundraising and support from AptosPad platform
 
-AptosPad is the DAO and community-driven platform so that It creates the fair opportunity for any users to access the project's token sale from the early stage.
+AptosPad is the first launchpad on Aptos that proposes and applies the SharePad mechanism. This mechanism allows projects to sell tokens not only on AptosPad but also on the whole sharing pool of AptosPad’s partners.
+
+AptosPad will be the DAO and community-driven platform so that It creates the fair opportunity for any users to access the project's token sale from the early stage.
 
 Project resources:
 
@@ -37,6 +39,7 @@ Like many other launchpad platforms, Aptos Pad has the following functions
 - KYC project owners/investors 
 - Whitelist users for specific projects
 - Buy early sales tokens and claim 
+- SharePad mechanism
 - Earn reward by Staking and farming 
 - Daily task and leaderboard ranking 
 - Earning by inviting/ref
@@ -71,6 +74,14 @@ Where:
 - _sum of ticket(k)_: is the total tickets on the platform joined the early sale
 
 Please note that the token that user X can buy will not exceed the maximum quota that a user can buy defined in each project policy
+
+## How SharePad works
+When a project token is listed on AptosPad.app for the early token sales, The token will not only appear on AptosPad but also on other trusted launchpads that partnered with AptosPad. Users can buy the early token on all connected partners but the whitelist mechanism or policies depend on each launchpad partner.
+
+![SharePad mechanism](https://github.com/aptospad-app/.github/blob/main/assets/aptos-sharepad.png)
+
+There will be the _sharepad contract_ that all the partners will agree on and each launchpad partner can sell for a specific number of tokens (for example 10%). If the total of the fundraising on all launchpads exceeds the project target, the refund process on smart contract will be triggered and users can claim the corresponding amount of APT based on exceeded percentage.
+
 
 ## ATPP - The utinity token on AptosPad
 ATPP is the token/coin of AptosPad on Aptos blockchain that is designed to leverage the AptosPad ecosystem
