@@ -14,6 +14,7 @@ __Document Outlines:__
 - [How to participate in token sales](#how-to-participate-in-token-sales)
     - [Whitelist mechanism ](#whitelist-mechanism)
     - [AptosPad ticket](#aptospad-ticket)
+- [The refund mechanism](#the-refund-mechanism)
 - [How SharePad works](#how-sharepad-works)
 - [ATPP - The utinity token on AptosPad](#atpp---the-utinity-token-on-aptospad)
     - [Token utinity](#token-utinity)
