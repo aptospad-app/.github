@@ -83,6 +83,36 @@ Where:
 
 Please note that the token that user X can buy will not exceed the maximum quota that a user can buy defined in each project policy
 
+## The refund mechanism 
+The projects on AptosPad should define the refund policy if some certain conditions are not met. It attracts investors and makes projects more credible. AptosPad has the basic built-in refund mechanism that can be customised.
+
+### Refund if the fundraising target is not met
+When a project is listed on AptosPad, the project owners should clarify the target (in  ATP or USD equivalent). The fundraising target is considered as the softcap, If It below the softcap, the refund process will be activated. Project owners can also define the maximum target in which the fund cannot exceed, otherwise, the refund will be triggered too.
+
+![refund-mechanism](https://github.com/aptospad-app/.github/blob/main/assets/aptospad-refund.png)
+
+When users buy a token, the user's fund goes directly to the smart contract pool rather than the project owners wallet. After the IDOs, the smart contract will check the fundraising status. If the condition does not meet, a refund process will be executed automatically, It creates a claimable vault that maps the investor’s account with the refund amount and after that users can claim their funds into their wallet. 
+
+Please note that the _min target, max target, refund fee …_ will be set by project owners in AptosPad’s smart contract and displayed transparently on the platform before the IDOs started. 
+
+### Refund in overbought case 
+AptosPad allows users to buy more tokens than the tickets they have if the fundraising target is not met. The special thing is that It will be fair for all users while users can overbuy the token before the IDOs end. If the fundraising amount exceeds the _hardcap_, the refund process will be activated. The detailed steps below:
+
+(1). Users need to be added to the whitelist to participate in early token sales
+
+(2). Users can buy the token amount corresponding the tickets they have or overbuy the token
+
+(3). At the end of IDO, the smart contract will check the result and the following cases may occur: 
+- The total fundraising amount does not reach the softcap: the refund process will be triggered and all users can claim their funds 
+- The total fundraising amount is between the _[softcap, hardcap]_: fundraising is considered as the success case. Token will be distributed to users wallet (TGE and vesting schedule depends on each project)
+- The total fundraising amount exceeds the hardcap: All users receive the token corresponding to the number of tickets they have. To the users who overbought the token, a portion of the overbought amount will be refunded. This portion will depend on percentage of the total exceeded amount and is calculated as below:
+```
+    exceeded_amount = total_amount - hardcap 
+    exceeded_percentage = exceeded_amount/hard_cap 
+    refund_amount = (overbought_amout - allowed_amount)*exceeded_percentage 
+```
+The overbought creates a fair opportunity for all participants because the ticket system is the priority. It also helps projects to reach the target funds in somecase and also satisfy some early investors' demand. 
+
 ## How SharePad works
 When a project token is listed on AptosPad.app for the early token sales, The token will not only appear on AptosPad but also on other trusted launchpads that partnered with AptosPad. Users can buy the early token on all connected partners but the whitelist mechanism or policies depend on each launchpad partner.
 
