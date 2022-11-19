@@ -16,7 +16,7 @@ __Document Outlines:__
     - [AptosPad ticket](#aptospad-ticket)
 - [The refund mechanism](#the-refund-mechanism)
 - [How SharePad works](#how-sharepad-works)
-- [ATPP - The utinity token on AptosPad](#atpp---the-utinity-token-on-aptospad)
+- [APD - The utinity token on AptosPad](#atpp---the-utinity-token-on-aptospad)
     - [Token utinity](#token-utinity)
     - [Tokenomic](#tokenomic)
 - [Become the early supporter](#become-the-early-supporters)
@@ -60,17 +60,17 @@ Normally, token sale of projects listed on AptosPad is in the early stage (like 
 
 ### Whitelist mechanism 
 
-Users that hold and stake the ATPP token in a staking pool at least 3 days before the token sale occurs will get the ticket. The number of tickets depends on the ATPP token that users deposit into the staking pool and the amount of project token will be based on the number of tickets that users have.
- ``` number_of_ticket = floor(APTT/1000) + reward``` where  ```reward = floor(APTT/5000)``` 
-. That means users get 1 ticket for each 1000 APTT staking token and get another 1 ticket for each other 5000 APTT staking token. For example :
-- If user stake 2000 APTT, they get ```floor(2000/1000) = 2 tickets```
-- If user stake 7000 APTT, they get ```floor(7000/1000) + floor(7000/5000) = 9 tickets``` 
-- If users stake 60.000 APTT, they get ```floor(60000/1000) + floor(60000/5000) = 60 + 12 = 72 tickets```
+Users that hold and stake the APD token in a staking pool at least 3 days before the token sale occurs will get the ticket. The number of tickets depends on the APD token that users deposit into the staking pool and the amount of project token will be based on the number of tickets that users have.
+ ``` number_of_ticket = floor(APD/1000) + reward``` where  ```reward = floor(APD/5000)``` 
+. That means users get 1 ticket for each 1000 APD staking token and get another 1 ticket for each other 5000 APD staking token. For example :
+- If user stake 2000 APD, they get ```floor(2000/1000) = 2 tickets```
+- If user stake 7000 APD, they get ```floor(7000/1000) + floor(7000/5000) = 9 tickets``` 
+- If users stake 60.000 APD, they get ```floor(60000/1000) + floor(60000/5000) = 60 + 12 = 72 tickets```
 
 Please note that the official ticket calculation will be define in smart contract at the time of deploying
 
 ### AptosPad ticket
-AptosPad ticket is the fair way for users participating in the early token sale. To get the Aptospad tickets users can join the whitelist by taking the ATPP token which is described in the session above or participate in community activities on the platform such as share the event, retweet the post, win the lottery, … the first 100 users with the high ranking will get the tickets. The number of tickets that the leaderboard can archive will depend on the situation when launching the projects.
+AptosPad ticket is the fair way for users participating in the early token sale. To get the Aptospad tickets users can join the whitelist by taking the APD token which is described in the session above or participate in community activities on the platform such as share the event, retweet the post, win the lottery, … the first 100 users with the high ranking will get the tickets. The number of tickets that the leaderboard can archive will depend on the situation when launching the projects.
 
 The token that a user will be allowed to by will be calculated by the formulation below:
 
@@ -122,10 +122,10 @@ When a project token is listed on AptosPad.app for the early token sales, The to
 There will be the _sharepad contract_ that all the partners will agree on and each launchpad partner can sell for a specific number of tokens (for example 10%). If the total of the fundraising on all launchpads exceeds the project target, the refund process on smart contract will be triggered and users can claim the corresponding amount of APT based on exceeded percentage.
 
 
-## ATPP - The utinity token on AptosPad
-ATPP is the token/coin of AptosPad on Aptos blockchain that is designed to leverage the AptosPad ecosystem
+## APD - The utinity token on AptosPad
+APD is the token/coin of AptosPad on Aptos blockchain that is designed to leverage the AptosPad ecosystem
 ### Token utinity
-With APTT token/coin, users can:
+With APD token/coin, users can:
 - Get more opportunity to participate in early sale of any projects 
 - Stake to add to whitelist, get ticket and buy tokens 
 - Earn reward from staking tools 
@@ -145,7 +145,7 @@ There will be 1.000.000.000 (1B in word) token issued on Aptos mainet. The alloc
 | Treasury                     | 18%         |180.000.000 |Fully lock in the first 3 years, unlock over next 36 months|
 
 ## Become the early supporters
-The early supporters, also known as __OG__ will have the high opportunity to buy the tokens because they will have the priority tickets (without staking the APTT token) to access the project sales.
+The early supporters, also known as __OG__ will have the high opportunity to buy the tokens because they will have the priority tickets (without staking the APD token) to access the project sales.
 There are many ways to become early supporters (or OG) such as joining and sharing AptosPad social media channels, partnership or collaboration in projects … There will be a post on twitter of how to be the platform early supporters. Please follow us [AptosPad](https://twitter.com/Aptospad_DAO)
 
 
