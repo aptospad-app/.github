@@ -15,6 +15,9 @@ __Document Outlines:__
     - [Whitelist mechanism ](#whitelist-mechanism)
     - [AptosPad ticket](#aptospad-ticket)
 - [The refund mechanism](#the-refund-mechanism)
+- [The Referential system](#the-referential-system)
+    - [Users benefits](#users-benefits)
+    - [How it works](#how-it-work)
 - [How SharePad works](#how-sharepad-works)
 - [APD - The utinity token on AptosPad](#atpp---the-utinity-token-on-aptospad)
     - [Token utinity](#token-utinity)
@@ -114,7 +117,7 @@ AptosPad allows users to buy more tokens than the tickets they have if the fundr
 ```
 The overbought creates a fair opportunity for all participants because the ticket system is the priority. It also helps projects to reach the target funds in somecase and also satisfy some early investors' demand. 
 
-## Referential system
+## The Referential system
 AptosPad has a referential mechanism that allows users to refer to other users and get the reward. It is also the way to scale the community and also help IDOs projects to reach the target and potential investors/customers. 
 ### Users benefits 
 When users refer to others users joining the AptosPad, they may receive the following benefits
