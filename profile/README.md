@@ -114,6 +114,20 @@ AptosPad allows users to buy more tokens than the tickets they have if the fundr
 ```
 The overbought creates a fair opportunity for all participants because the ticket system is the priority. It also helps projects to reach the target funds in somecase and also satisfy some early investors' demand. 
 
+## Referential system
+AptosPad has a referential mechanism that allows users to refer to other users and get the reward. It is also the way to scale the community and also help IDOs projects to reach the target and potential investors/customers. 
+### Users benefits 
+When users refer to others users joining the AptosPad, they may receive the following benefits
+- Receive retroactive token
+- Get the tickets to be added to whitelist
+- Become the listing agency 
+- Get commission from F1 IDOs volume or staking volume
+
+### How It work
+Everyone in AptosPad can create the reference codes and invite their friends in their network to join the AptosPad. Users must connect to AptosWallet (Petra, Martian … for example) to create the ref codes, when other users login with their friend ref codes by Aptos wallet, they must sign the transaction and submit to AptosPad system. The information then gets verified and stored on both on-chain and chain for later incentive calculation. Please note that all addresses must exist on Aptos network in order to join the referential program. The picture below describes the referential flow in AptosPad.
+
+![aptospad-ref](https://github.com/aptospad-app/.github/blob/main/assets/aptospad-ref.png)
+
 ## How SharePad works
 When a project token is listed on AptosPad.app for the early token sales, The token will not only appear on AptosPad but also on other trusted launchpads that partnered with AptosPad. Users can buy the early token on all connected partners but the whitelist mechanism or policies depend on each launchpad partner.
 
