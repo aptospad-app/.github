@@ -166,6 +166,43 @@ The early supporters, also known as __OG__ will have the high opportunity to buy
 There are many ways to become early supporters (or OG) such as joining and sharing AptosPad social media channels, partnership or collaboration in projects … There will be a post on twitter of how to be the platform early supporters. Please follow us [AptosPad](https://twitter.com/Aptospad_DAO)
 
 
+## Frequently Asked Questions
+1. What is AptosPad
+AptosPad is the launchpad on Aptos network that helps projects to raise funds from community in the early stage (IDO)
+
+2. What the special features of AptosPad
+AptosPad has almost all of the functions that other launchpads have, some features below make AptosPad special
+    - Launch-fair
+    - Ref mechanism
+    - SharePad mechanism 
+    - Overbuy mechanism 
+    - Refund mechanism 
+
+3. What’s the launch-fair feature on AptosPad
+Unlike other launchpad, AptosPad has the fair-launch mechanism, that means everyone has the same opportunity to buy the IDO as long as they contribute for the projects in the long-term vision 
+
+4. Can I get reward when sharing the AptosPad
+Yes, We have the referential mechanism, please check more [detail here](#the-referential-system)
+
+5. What is the SharePad and how It works
+SharePad is the mechanism that allow a projects to sell their IDO tokens not only on AptosPad but also on others AptosPad’s launchpad partners. Please check more detail information [here](#how-sharepad-works)
+
+6. How can I buy AptosPad token
+You can buy AptosPad token on AptosPad.com when AptosPad opens the first IDO. The IDOs time and whitelist will be published on official media channels such as website, discord, twitter. 
+
+7. How can I buy IDO token
+You can buy IDOs tokens if you are in the whitelist and have enough tickets. The opening time, refund and other policies will depend on each project and public before the selling time.
+
+8. Can I buy more IDO token than my ticket
+Yes, but the actual token you can claim may be decided only after the IDOs end. The Overbuy mechanism allows you to buy more than the maximum number of allocation, this helps satisfy the users demand and also the project target. If the total fundraising does not exceed the maximum target (hardcap), you can keep your overbuy amount. If It exceeds the hardcap, the refund will be triggered. 
+ 
+9. How refund mechanism work
+The refund mechanism protects users in case the project cannot meet some certain condition (such as cannot reach the softcap). It may also be triggered incase of an overbuy process.
+
+10. When APD get listed on exchanges
+After the IDOs, APD will be listed on some Aptos DEX. The CEX will be listed later (2023) after We reach an agreement with the exchanges.
+
+
 <!--
 
 **Here are some ideas to get you started:**
