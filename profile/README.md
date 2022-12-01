@@ -23,7 +23,7 @@ __Document Outlines:__
     - [Token utinity](#token-utinity)
     - [Tokenomic](#tokenomic)
 - [Become the early supporter](#become-the-early-supporters)
-
+- [Frequently Asked Question](#frequently-asked-questions)
 
 __Project resources:__
 
