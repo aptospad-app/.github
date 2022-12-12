@@ -158,7 +158,9 @@ There will be 1.000.000.000 (1B in word) token issued on Aptos mainet. The alloc
 | Public round (IDO)           | 4%          |40.000.000  |Release 100% at TGE                            |
 | Advisor                      | 5%          |50.000.000  |Release 10% at TGE, linear vesting in the next 36 months|
 | Founder/Core team            | 15%         |150.000.000 |Fully lock in 12 months then unlock over 36 months|
-| OG, community, airdrop       | 50%         |500.000.000 |Release on each campaign, target in 5 years|
+| Ecosystem growth             | 30%         |300.000.000 |Linear vesting over 5 years|
+| Marketing                    | 15%         |150.000.000 |Release on each campaign, target in 2 years|
+| Airdrop/Bounty               | 5%          |50.000.000  |Fully unlock                               |
 | Treasury                     | 18%         |180.000.000 |Fully lock in the first 3 years, unlock over next 36 months|
 
 ## Become the early supporters
@@ -167,10 +169,12 @@ There are many ways to become early supporters (or OG) such as joining and shari
 
 
 ## Frequently Asked Questions
-1. What is AptosPad
+1. __What is AptosPad__
+
 AptosPad is the launchpad on Aptos network that helps projects to raise funds from community in the early stage (IDO)
 
-2. What the special features of AptosPad
+2. __What the special features of AptosPad__
+
 AptosPad has almost all of the functions that other launchpads have, some features below make AptosPad special
     - Launch-fair
     - Ref mechanism
@@ -178,28 +182,36 @@ AptosPad has almost all of the functions that other launchpads have, some featur
     - Overbuy mechanism 
     - Refund mechanism 
 
-3. What’s the launch-fair feature on AptosPad
+3. __What’s the launch-fair feature on AptosPad__
+
 Unlike other launchpad, AptosPad has the fair-launch mechanism, that means everyone has the same opportunity to buy the IDO as long as they contribute for the projects in the long-term vision 
 
-4. Can I get reward when sharing the AptosPad
+4. __Can I get reward when sharing the AptosPad__
+
 Yes, We have the referential mechanism, please check more [detail here](#the-referential-system)
 
-5. What is the SharePad and how It works
+5. __What is the SharePad and how It works__
+
 SharePad is the mechanism that allow a projects to sell their IDO tokens not only on AptosPad but also on others AptosPad’s launchpad partners. Please check more detail information [here](#how-sharepad-works)
 
-6. How can I buy AptosPad token
+6. __How can I buy AptosPad token__
+
 You can buy AptosPad token on AptosPad.com when AptosPad opens the first IDO. The IDOs time and whitelist will be published on official media channels such as website, discord, twitter. 
 
-7. How can I buy IDO token
+7. __How can I buy IDO token__
+
 You can buy IDOs tokens if you are in the whitelist and have enough tickets. The opening time, refund and other policies will depend on each project and public before the selling time.
 
-8. Can I buy more IDO token than my ticket
+8. __Can I buy more IDO token than my ticket__
+
 Yes, but the actual token you can claim may be decided only after the IDOs end. The Overbuy mechanism allows you to buy more than the maximum number of allocation, this helps satisfy the users demand and also the project target. If the total fundraising does not exceed the maximum target (hardcap), you can keep your overbuy amount. If It exceeds the hardcap, the refund will be triggered. 
  
-9. How refund mechanism work
+9. __How refund mechanism work__
+
 The refund mechanism protects users in case the project cannot meet some certain condition (such as cannot reach the softcap). It may also be triggered incase of an overbuy process.
 
-10. When APD get listed on exchanges
+10. __When APD get listed on exchanges__
+
 After the IDOs, APD will be listed on some Aptos DEX. The CEX will be listed later (2023) after We reach an agreement with the exchanges.
 
 
